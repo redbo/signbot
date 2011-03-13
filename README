@@ -1,0 +1,10 @@
+This code was for my FavoTech LED sign, which has since perished.
+
+It would display the current DOW, time, local weather, and top news items
+scraped from around the web.  It was written back when I thought Twisted
+might be a good idea.
+
+protocol.py was assembled based on FavoTech's terrible documentation and
+what I was able to glean by watching their Windows client talk to the sign
+with Wireshark.
+
